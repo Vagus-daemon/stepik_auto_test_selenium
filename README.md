@@ -1,2 +1,2 @@
-# stepik_auto_test_selenium
-Homework of the course
+Stepik autotesting on Python with Selenium
+Test repository
